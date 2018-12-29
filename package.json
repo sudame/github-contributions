@@ -1,0 +1,14 @@
+{
+  "name": "github-contribution-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sudame <su.glasses.923@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "libxmljs": "^0.19.5"
+  },
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  }
+}
